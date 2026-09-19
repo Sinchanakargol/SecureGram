@@ -29,7 +29,7 @@ Before setting up SecureGram, ensure you have the following installed:
 ### Setup
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/Vidyashree-H-Shetty/SecureGram.git
+   git clone https://github.com/SinchanaKargol/SecureGram.git
    cd SecureGram
    ```
 
@@ -78,5 +78,5 @@ Before setting up SecureGram, ensure you have the following installed:
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ## Contact
-For any inquiries, reach out at **vidyashreehshetty2917@gmail.com**.
+For any inquiries, reach out at **kargolsinchana@gmail.com**.
 
