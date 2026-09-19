@@ -1,6 +1,6 @@
-# Drug Watch: AI-Powered Secure Messaging Platform
+# SecureGram: AI-Powered Secure Messaging Platform
 
-Drug Watch is a secure and intelligent chat platform designed for safe communication. It integrates AI-driven message filtering, machine learning (ML)-based detection, and administrative controls to identify and prevent drug-related messages in real-time.
+SecureGram is a secure and intelligent chat platform designed for safe communication. It integrates AI-driven message filtering, machine learning (ML)-based detection, and administrative controls to identify and prevent drug-related messages in real-time.
 
 ## Features
 - **Secure Chatting**: Real-time messaging with an intuitive UI.
@@ -29,7 +29,7 @@ Before setting up SecureGram, ensure you have the following installed:
 ### Setup
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/SinchanaKargol/DrugWatch.git
+   git clone https://github.com/SinchanaKargol/SecureGram.git
    cd SecureGram
    ```
 
@@ -70,7 +70,7 @@ Before setting up SecureGram, ensure you have the following installed:
    ```
 
 ## Usage
-- Users can register and log in to access Drug Watch.
+- Users can register and log in to access SecureGram.
 - Chat in real-time with AI filtering to prevent inappropriate messages.
 - Admins can view flagged users and take necessary actions.
 
@@ -78,4 +78,4 @@ Before setting up SecureGram, ensure you have the following installed:
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ## Contact
-For any inquiries, reach out at **vidyashreehshetty2917@gmail.com**.
+For any inquiries, reach out at **kargolsinchana@gmail.com**.
